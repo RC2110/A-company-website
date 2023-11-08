@@ -3,7 +3,7 @@ import pandas as pd
 
 st.set_page_config(layout='wide')
 st.header("TheAIPlace")
-content="""Microsoft is a global developer and licensor of software, devices, solutions, and services. 
+content="""The AI place is a global developer and licensor of software, devices, solutions, and services. 
 The company is well known for its Windows and Office Suite software but nets a growing share of its profit and revenue from cloud computing and its cloud platform, Azure. 
 Microsoft also owns and operates LinkedIn, the popular social networking site for job seekers."""
 st.write(content)
